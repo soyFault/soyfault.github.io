@@ -1,0 +1,14 @@
+body{background:url(https://u.cubeupload.com/Mythes/4anglicafondo.png);}
+
+h1{color:#000}.cuerpo{margin-top:10px}.inside{margin:auto}.container{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center}.botones,.sociales{display:-webkit-box;display:-ms-flexbox}img{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}img .gif,img .texto{width:100%;max-width:521px}.botones{display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;margin-top:0px}.outside{display:-webkit-inline-box;display:-ms-inline-flexbox;display:inline-flex}.sociales{-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;display:flex;-ms-flex-item-align:center;align-self:center;margin-right:20px}.cuerpo{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.boton{padding-left:3px}                                                 
+span.boton1 {background-image:url(https://u.cubeupload.com/Mythes/4daah.png);                                                  
+  background-repeat: no-repeat; display:block;}                                                 
+span.boton1:hover img {visibility:hidden;}      
+.yt{
+  display: flex;
+  background: #000;
+  justify-content: space-between;
+}
+.video{
+  padding-right: 33px;
+}
