@@ -1,0 +1,57 @@
+
+.fault-topnav{
+    background-color: #17181C ;
+    color: white !important;
+ }
+ .fault-topnav a{
+     color: white;
+ }
+ 
+ .navbar-nav .nav-link.active{
+     color: rgb(190, 190, 190) !important;
+ }
+ 
+ .navbar-nav .nav-link:focus{
+     color: white;
+ }
+ 
+ .navbar-nav .nav-link:hover{
+     color: #1fa1df;
+ }
+ body {
+     background-color: #0C0D10;
+     color: white;
+ }
+ .center-navFault{
+     margin: 0 auto;
+ }
+ 
+ .logoFault{
+ font-weight: bolder;
+ }
+ 
+ .searchInputFault {
+     border: 0;
+     background-color: #0C0D10;
+ 
+ }
+ 
+ .searchInputFault:focus {
+     border: 0;
+     background-color: #0C0D10;
+ 
+ }
+ .searchButtonFault{
+ background-color: #17181C;
+ color: white;
+ border: 0;
+     background: none;
+ }
+ .whiteFault{
+     color: white;
+ }
+ 
+ nav .navbar-nav{
+   font-family:'Inter', sans-serif;
+   font-weight: 600;
+ }
