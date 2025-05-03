@@ -10,7 +10,7 @@ var config = {
 
   // URL cortas sólo para entrar al sitio,
   // mas no en su funcionamiento general.
-  accessOnly: false,
+  accessOnly: true,
 
   // Usar API v3 de Blogger.
   useApiV3: false,
